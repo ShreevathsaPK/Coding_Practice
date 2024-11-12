@@ -1,0 +1,39 @@
+Bit Manipulation: Write a function to set, clear, toggle, or check a specific bit in an integer.
+
+Memory Management: Explain how to implement a memory allocator in C with functions like malloc and free.
+
+Circular Buffer: Design a circular buffer with operations to add and remove data, ensuring it wraps around the buffer boundaries.
+
+Endianness Check: Write a function to determine if a machine is little-endian or big-endian.
+
+Interrupt Handling Simulation: Implement a function to simulate an interrupt handler using flags or signals.
+
+Power of Two Check: Write a function that checks if an integer is a power of two without using loops or recursion.
+
+CRC Calculation: Write code to calculate the CRC (Cyclic Redundancy Check) for a given data array.
+
+Implement memcpy(): Write a custom memcpy() function to copy data from one memory location to another.
+
+Linked List in C: Implement a singly or doubly linked list, focusing on operations like insert, delete, and reverse.
+
+Task Scheduling: Write a program that simulates a round-robin or priority-based task scheduler for embedded tasks.
+
+Reverse Bits of an Integer: Write a function to reverse the bits of a given 32-bit unsigned integer.
+
+Count Leading Zeros: Implement a function that counts the number of leading zeros in an integer without using built-in functions.
+
+Byte Swap: Write a function that swaps the bytes in a 32-bit integer (e.g., convert 0x12345678 to 0x78563412).
+
+Detect Overflow in Integer Addition: Implement a function to check if adding two integers causes overflow.
+
+Low Power Mode Simulation: Write code to simulate entering and exiting low-power modes based on specific conditions.
+
+Binary Search Without Loops: Implement binary search in a sorted array without using loops or recursion (use bitwise manipulation).
+
+I/O Port Emulation: Design a structure to simulate I/O port registers for reading, writing, and toggling specific bits.
+
+Fixed-point Arithmetic: Implement a fixed-point arithmetic addition and multiplication function for two numbers with a specified fixed-point format.
+
+Debouncing a Button Press: Write a program to simulate debouncing a button press using polling and delay.
+
+Cache Simulator: Write code to simulate a simple cache, implementing different policies like LRU or FIFO.
