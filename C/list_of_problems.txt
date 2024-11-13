@@ -10,9 +10,9 @@ Memory Management: Explain how to implement a memory allocator in C with functio
 
 *Power of Two Check: Write a function that checks if an integer is a power of two without using loops or recursion.
 
-CRC Calculation: Write code to calculate the CRC (Cyclic Redundancy Check) for a given data array.
+*CRC Calculation: Write code to calculate the CRC (Cyclic Redundancy Check) for a given data array.
 
-Implement memcpy(): Write a custom memcpy() function to copy data from one memory location to another.
+*Implement memcpy(): Write a custom memcpy() function to copy data from one memory location to another.
 
 Linked List in C: Implement a singly or doubly linked list, focusing on operations like insert, delete, and reverse.
 
