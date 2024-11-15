@@ -24,11 +24,11 @@ Memory Management: Explain how to implement a memory allocator in C with functio
 
 *Swap Even and Odd Bits: Write a function to swap even and odd bits in a 32-bit integer.
 
-Reverse Bits: Write a function to reverse the bits of a 32-bit integer.
+*Reverse Bits: Write a function to reverse the bits of a 32-bit integer.
 
-Rotate Bits Left/Right: Write functions to rotate a 32-bit integer’s bits to the left or right by a specified number of positions.
+*Rotate Bits Left/Right: Write functions to rotate a 32-bit integer’s bits to the left or right by a specified number of positions.
 
-Isolate Rightmost Set Bit: Write a function to isolate the rightmost set bit of a 32-bit integer.
+*Isolate Rightmost Set Bit: Write a function to isolate the rightmost set bit of a 32-bit integer.
 
 Bit Masking: Write a function to extract a specific range of bits from an integer.
 
