@@ -30,15 +30,15 @@ Memory Management: Explain how to implement a memory allocator in C with functio
 
 *Isolate Rightmost Set Bit: Write a function to isolate the rightmost set bit of a 32-bit integer.
 
-Bit Masking: Write a function to extract a specific range of bits from an integer.
+*Bit Masking: Write a function to extract a specific range of bits from an integer.
 
-Parity Check: Write a function to check if the number of set bits is odd or even (parity check).
+*Parity Check: Write a function to check if the number of set bits is odd or even (parity check).
 
-Sign Extension: Write a function to perform sign extension on a specific bit length.
+*Sign Extension: Write a function to perform sign extension on a specific bit length.
 
-Insert Bits from One Number into Another: Write a function to insert bits from one number into another at specified positions.
+*Insert Bits from One Number into Another: Write a function to insert bits from one number into another at specified positions.
 
-Toggle All Bits: Write a function to toggle all bits in a 32-bit integer.
+*Toggle All Bits: Write a function to toggle all bits in a 32-bit integer.
 
 Clear All Bits except the MSB: Write a function to clear all bits except the most significant bit in a 32-bit integer.
 
