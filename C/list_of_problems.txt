@@ -40,7 +40,7 @@ Memory Management: Explain how to implement a memory allocator in C with functio
 
 *Toggle All Bits: Write a function to toggle all bits in a 32-bit integer.
 
-Clear All Bits except the MSB: Write a function to clear all bits except the most significant bit in a 32-bit integer.
+*Clear All Bits except the MSB: Write a function to clear all bits except the most significant bit in a 32-bit integer.
 
 //ATLEAST DO TILL HERE.
 

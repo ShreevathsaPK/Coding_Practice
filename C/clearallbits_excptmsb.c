@@ -7,7 +7,7 @@
 
 int main(){
 
-    uint32_t num = 0x00ff00aa;
+    uint32_t num = 0x000f00aa;
     uint32_t mrmask = 0xffffffff;
     while((num&(num-1))!=0){
         mrmask = mrmask << 1;
