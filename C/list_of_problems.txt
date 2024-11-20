@@ -46,13 +46,11 @@ Memory Management: Explain how to implement a memory allocator in C with functio
 
 *Linked List in C: Implement a singly or doubly linked list, focusing on operations like insert, delete, and reverse.
 
-Task Scheduling: Write a program that simulates a round-robin or priority-based task scheduler for embedded tasks.
+*Task Scheduling: Write a program that simulates a round-robin or priority-based task scheduler for embedded tasks.
 
-Reverse Bits of an Integer: Write a function to reverse the bits of a given 32-bit unsigned integer.
+*Count Leading Zeros: Implement a function that counts the number of leading zeros in an integer without using built-in functions.
 
-Count Leading Zeros: Implement a function that counts the number of leading zeros in an integer without using built-in functions.
-
-Byte Swap: Write a function that swaps the bytes in a 32-bit integer (e.g., convert 0x12345678 to 0x78563412).
+*Byte Swap: Write a function that swaps the bytes in a 32-bit integer (e.g., convert 0x12345678 to 0x78563412).
 
 Detect Overflow in Integer Addition: Implement a function to check if adding two integers causes overflow.
 
