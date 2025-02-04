@@ -90,6 +90,14 @@ print(letter in string.punctuation)
 print(letter in string.printable)
 print(letter in string.whitespace)
 
+#*args and **kwargs
+def multifun(*args,**kwargs):
+    print(args)
+    print(kwargs)
+multifun(1,2,3,4,'rt')
+print('*****************')
+multifun(1,2,3,4,t='rf',n='56')
+
 
 
 

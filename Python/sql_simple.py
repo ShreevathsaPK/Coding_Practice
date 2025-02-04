@@ -27,6 +27,11 @@ rows = cursor.fetchall()
 for r in rows:
     print(r)
 
+print("***")
+cursor.execute('''SELECT * FROM ABC where age>29''')
+res = cursor.fetchall()
+for r in res:
+    print(res)
 
 #Commit changes and close connection.
 conn.commit()
