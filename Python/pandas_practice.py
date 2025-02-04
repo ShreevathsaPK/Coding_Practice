@@ -30,3 +30,6 @@ print(df.iloc[1:3])
 json_data_of_pd = df.to_json('data.json',orient='records')  # You can change the orient based on your needs
 print(json_data_of_pd)
 print(type(json_data_of_pd))
+
+print(type(data1))
+print(type(data2))

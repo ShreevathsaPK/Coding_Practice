@@ -98,7 +98,8 @@ multifun(1,2,3,4,'rt')
 print('*****************')
 multifun(1,2,3,4,t='rf',n='56')
 
-
+ad= 34
+print(f"ad:{ad}")
 
 
 
