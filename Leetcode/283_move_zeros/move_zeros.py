@@ -2,8 +2,10 @@ class Solution:
     def moveZeroes(self, nums: list[int]) -> None:
         """
         Do not return anything, modify nums in-place instead.
+
         """
         #283. LeetCode problem
+        #Use Two Pointer Logic.
         write_index = 0
         for num in nums:
             if(num!=0):
